@@ -1,7 +1,7 @@
 # PatternRecognition
 
 
-Pattern Recognition Labs 2020-2021
+Pattern Recognition Labs 2020-2021 NTUA 9th Semester
 
 LAB 1: Οπτική Αναγνώριση Ψηφίων
 
